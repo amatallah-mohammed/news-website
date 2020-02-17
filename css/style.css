@@ -1,0 +1,33 @@
+#active{
+    color: #5d5b5b;
+    text-decoration: none;
+}
+#active:hover{
+    color: dodgerblue !important;
+    text-decoration: none !important;
+}
+#icon{
+    color: #4a4646;
+}
+#icon:hover{
+    color: yellow;
+    text-decoration: none;
+}
+#btn_add{
+    padding: 6px 30px;
+    background: #4e73df;
+}
+.inputmy{
+    width: 92% !important;
+    margin-left: 4% !important;
+}
+#title1{
+    text-align: center;
+    margin-top: 2%;
+    font-family: cursive;
+}
+#btn{
+    margin: 18px 30px;
+    padding: 10px 74px;
+
+}
